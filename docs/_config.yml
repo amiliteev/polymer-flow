@@ -1,3 +1,4 @@
 name: Polymer Flow
 markdown: kramdown
+highlighter: rouge
 baseurl: /polymer-flow
