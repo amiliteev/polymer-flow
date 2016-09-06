@@ -10,7 +10,7 @@ When you start working on a new Polymer application, it's easy to start and buil
 
 ## Applicability
 
-Unidirectional data flow works best if application logic involves complicated data management, when multiple elements need to have access to or modify the same data. Even though the pattern can be implemented just using built-in Polymer concepts, such as custom events and data binding, the Polymer Flow library provides a useful set of tools and abstractions, and helps to structure application code.
+This library implements the architectural pattern called 'unidirectional data flow'. It works best if application logic involves complicated data management, when multiple elements need to have access to or modify the same data. Even though the pattern can be implemented just using built-in Polymer concepts, such as custom events and data binding, the Polymer Flow library provides a useful set of tools and abstractions, and helps to structure application code.
 
 ## Documentation
 
